@@ -1,0 +1,578 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elixir salutis; or the great preservative of health called by some, the never-failing cordial of the world. : Being most pleasant and safe for all ages, sexes, and constitutions ... / Prepared by me, Tho. Witherden ...</title>
+            <author>Witherden, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06666</idno>
+            <idno type="STC">Wing W3212B</idno>
+            <idno type="STC">ESTC R186777</idno>
+            <idno type="EEBO-CITATION">49521037</idno>
+            <idno type="OCLC">ocm 49521037</idno>
+            <idno type="VID">174253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174253)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2679:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elixir salutis; or the great preservative of health called by some, the never-failing cordial of the world. : Being most pleasant and safe for all ages, sexes, and constitutions ... / Prepared by me, Tho. Witherden ...</title>
+                  <author>Witherden, Thomas.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Wellcome Institute for the History of Medicine. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+               <term>Elixirs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174253:1"/>
+            <pb facs="tcp:174253:1"/>
+            <p>ELIXIR SALUTIS<g ref="char:punc">▪</g> OR THE Great Preſervative O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> HEALTH CALLED BY SOME <hi>The Never-failing CORDIAL of the World.</hi>
+            </p>
+            <p>Being moſt pleaſant and ſafe for all Ages, Sexes, and Conſtitutions, and may be taken at any time of the Year; and in the <hi>Spring</hi> and <hi>Autumn</hi> is far beyond Diet-drinks for moſt <hi>Diſtempers;</hi> and is ſo Univerſal, that I may juſtly ſay (without Oſtentation) it performs all the practical part of Phyſic, both <hi>Preſervative</hi> and <hi>Curative</hi> better than any other yet found out for the uſe of man: And be<g ref="char:EOLhyphen"/>ing kept cloſe ſtop'd, will hold good for many years.</p>
+            <p>
+               <hi>Experienced by my Self, and thouſands in this Nation within theſe three years, whereof the Names of ſo many perſons, of ſo good Quality, Repu<g ref="char:EOLhyphen"/>tation and Credit are inſerted in my Paper, as (in ſpight of Envy) will vindicate my Cordial againſt any malicious Tongue whatſoever.</hi>
+            </p>
+            <p>My Habitation being diſtant from <hi>London,</hi> I have left the whole ma<g ref="char:EOLhyphen"/>nagement of my buſineſs with Mr. <hi>Samuel Amy,</hi> next door to the <hi>Mortar</hi> in the <hi>Pall-Mall.</hi>
+            </p>
+            <p>The Price in <hi>London</hi> is Two ſhillings the half Pint Bottle.</p>
+            <p>Prepared by me <hi>Tho. Witherden</hi> of <hi>Bearſted</hi> in the County of <hi>Kent,</hi> Gent.</p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_medicinal_elixir">
+            <pb n="2" facs="tcp:174253:2"/>
+            <p>THough I have not the impudence to brag of great Travels, long Journeys, many Voyages, and what Wonders I have done beyond Sea; nor am ambitious to ſhew large Parch<g ref="char:EOLhyphen"/>ments, Broad-Seals, &amp;c. nor ſiniſtrouſly covetous of popu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Applauſe; yet modeſty will juſtly allow me ſo much confidence, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to tell the World, that I have (for theſe many years) been my own Phyſician and Patient, my Education and Learning correſpon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> to my condition of Body, which from my Infancy being un<g ref="char:EOLhyphen"/>healthy, prompted me to a ſerious and continual ſtudy of Phyſic, which by the bleſſing of God upon my own Induſtry, I have im<g ref="char:EOLhyphen"/>proved to that degree, that having freed my ſelf from many infirmi<g ref="char:EOLhyphen"/>ties that long troubled, or rather oppreſt me, I have been willing to communicate freely to others what I chargeably practiſed upon my ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf, for having been long, often, and vehemently afflicted with the <hi>Gra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el</hi> and <hi>Stone;</hi> I tryed many Experiments that gave ſome caſe to me (and afterwards proved beneficial alſo to my <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iends and Neighbours; and at length Providence put into my <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d the Deſcription and Preparation of an Excellent Liquor <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>obtained of an Eminent Perſon) by which alone, with Gods <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſſing, I have recovered, and do enjoy ſo much Health; that whereas formerly, for many years, I could neither ride nor walk without great pains, and very bloody Urines, as is well known to all that knew me, I can now do both; and have ſince recom<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ded it to many Friends, which hath been found by all that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>v<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> a moſt Sovereign Remedy for moſt diſtempers they uſed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: But after ſome time, I underſtood that one Mr. <hi>Anthony D<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> had expoſed the ſame to public Sale, which at firſt I did won<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> at<g ref="char:punc">▪</g> but reſolving to make a narrow ſcrutiny in it, I traced it till <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>tred in the ſame Author with me: Whereupon ſeveral times <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſulting with my ſelf, and ſome good Friends, knowing the real worth of the Thing, and the juſt reputation it hath got in ſeveral place under the Title of <hi>Elixer Salutis;</hi> I thought it my Duty, both for my own and the Common Good, to make it more public, by <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g it out at a more reaſonable rate: That ſo many of the mean<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſort which labour under ſeveral Diſtempers, may more eaſily at<g ref="char:EOLhyphen"/>tain to a Remedy. I do ſell the ſame for quantity and quality com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ded of the ſame Ingredients (and certainly more exactly pre<g ref="char:EOLhyphen"/>pared)
+<pb n="3" facs="tcp:174253:2"/> at five ſhillings the pint in the Countrey which he ſ<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> for ſix, and ſo proportionably to greater or leſſer Bottles. I told you in my firſt Impreſſion, that it was very probable that ſelf-intereſt would prompt Mr. <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffy</hi> to calumniate me as an Impoſtor and a Counter<g ref="char:EOLhyphen"/>feiter of his Drink; and like <hi>Diara</hi>'s Crafts-men, would not ſcruple to vilifie another man (by whom his gain is pared off) to ſtitch up his own Reputation. And indeed I was not miſtaken; but he hath done it ſo pitifully, that all underſtanding perſons admire at the fol<g ref="char:EOLhyphen"/>ly of it, eſpecially that he ſhould have no more wit than to confeſs the Receit in his idle <hi>Pamphlet;</hi> only he tells you what great altera<g ref="char:EOLhyphen"/>tions he hath made in it by his great Reading and Studies. A very wonderful thing! that ſuch an illiterate Fellow ſhould be able to add to ſuch an Excellent Receit! Will not all perſons ſtand amazed at ſuch a ſudden <hi>Metamorphoſis</hi> of <hi>Modulus</hi> into <hi>Medicus,</hi> of an Awl into an Urinal, <hi>&amp;c.</hi> knowing that <hi>Nemo repente fuit doctiſſimus;</hi> but if this great Student have made any alteration, whether or no he hath not made it worſe, I leave others to judge. I ſhall not further trouble my ſelf with his impertinencies, let him ſay what he pleaſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s: For my own part, I am ſo well known to moſt perſons of Quality; and others of good Repute in the Countrey where I live, and by many worthy Citizens of <hi>London,</hi> that my Perſon is above the prejudice of any malicious or detracting Tongue, where I am known; and where I am not known, let the drink plead for it ſelf and me. And that which is called the <hi>Elixir Salutis,</hi> that it is the ſame with mine, I affirm; and for the Truth thereof, I appeal to any judicious perſon who will but try them both, and I will abide by his impartial Cenſure. And there are ſeveral conſiderable perſons al<g ref="char:EOLhyphen"/>ready both in the City and Country ſo well ſatisfied in it, that they have left off all others, and do now wholly ſtick to the uſe of min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> and for others that through opinion or meer fanſie eſteem any thing the better becauſe it is dearer (as ſome ſuch there may b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I ſhall deſire them but to try before they paſs Cenſure on me or my Cordial, which is but juſt; otherwiſe they are but vain and raſh; but I hope I ſhall not meet with many ſuch; and if any do it through ignorance, I would have them remember the proverb, <hi>Ne ſutor ul<g ref="char:EOLhyphen"/>tra crepidam;</hi> which, leſt thoſe ignorant ones (if any ſuch ſhall be) ſhould not underſtand, it is in Engliſh, <hi>Shooemaker, meddle not with any thing beyond your Laſt.</hi>
+            </p>
+            <p>This Cordial is of ſo tranſcendent a Virtue that ſcarce any In<g ref="char:EOLhyphen"/>ternal Diſtemper (of whatſoever Nature whether Acute or Chroni<g ref="char:EOLhyphen"/>cal,
+<pb n="4" facs="tcp:174253:3"/> Continual or Periodical, Simple or Complicated, proceeding f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whatſoever Cauſe either Occult, or known by the name of any of the Firſt, Second or Third Qualities,) can eſcape its force and <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y; and among all that have had it of me, I have not known two perſons diſappointed in their Expectations: But the Conſtitu<g ref="char:EOLhyphen"/>tio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of perſons are ſo different, that it is impoſſible the ſame Doſe ſhould ſerve all people; therefore ſomething muſt be left to the diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion of thoſe that uſe it, ſuppoſing them to know the temper of their own Bodies: Therefore where three ſpoonfuls is preſcribed, if t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e patient be laxative and eaſie to be wrought upon, ſuch may be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> with one or two ſpoonfuls, and increaſe the Doſe as they ſee oc<g ref="char:EOLhyphen"/>caſion; and others that are coſtive, and of ſtrong Bodies, may take <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpoonfuls; but however, it is ſo gentle and ſafe in its operatati<g ref="char:EOLhyphen"/>on, that no great Error can be committed in the taking of it; and it hath this rare property contrary to moſt Phyſic, that it leaves the Body in a good condition, without a binding quality after it. But I ſhall give thoſe Directions that were communicated to me, toge<g ref="char:EOLhyphen"/>ther with the deſcription of the Cordial, and which I have found by experience to be moſt beneficial upon ſeveral perſons that have had it of me, as I could give an Inſtance by ſetting down the Names of hundreds; and I am well aſſured, that not any one that makes tryal of it, will repent it. But I ſhall not give the <hi>Reader</hi> ſo much trou<g ref="char:EOLhyphen"/>ble. But to ſatisfie the world that <hi>Daffy</hi> hath abuſed me, I have ſet down the Names of ſeveral perſons of good quality, moſt of them <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve had the tryal of both; but finding moſt benefit by mine, have done me that favour as to give me le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve to inſert their Names, <hi>viz.</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Nicolas Carew</hi> of <hi>Beddington</hi> in <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrey,</hi> Dr. <hi>Laurence Womock,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Deacon of <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>; Edw. Har<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> of <hi>Adſton</hi> in <hi>Northamptonſhire,</hi> 
+               <abbr>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>q</abbr> 
+               <hi>J<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Highlord</hi> at <hi>M<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>am,</hi> Eſq; B<hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Det<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k</hi> Eſq; <hi>Will. Maddox</hi> of <hi>Thurnham</hi> in <hi>Kent,</hi> Eſq; Mr. <hi>Thomas Bret</hi> at <hi>Romny,</hi> Mr. <hi>Edw. Maſon <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gr<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſend</hi> in <hi>Kent,</hi> Mr. <hi>John Law,</hi> Mr. <hi>John Criſp,</hi> and Mr. <hi>Tho. M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riam</hi> at <hi>Maidſtone</hi> in <hi>Kent.</hi> Mr. <hi>Will. Godfry</hi> at <hi>Thurnham</hi> in <hi>Kent,</hi> Mr. <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. Maddox</hi> at <hi>Summers-Key,</hi> Mr. <hi>Mat. White</hi> in St. <hi>Thomas Apo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> Mr. <hi>Hen. Alford</hi> at the Roſe and Crown in <hi>Grace Church-ſtreet.</hi>
+            </p>
+            <p>Now I haſten to the particular Direction, wherein I ſhall not put t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Readers</hi> Intellectuals upon the Rack with a multitude of crabbed w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ds pickt from others (my former Induſtry having freed me from <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y neceſſity of ſoaring with borrowed wings) nor ſhall I ranſack t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pathological part of Phyſic to trouble them in every Paragraph <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> particular enumeration either of Symptoms or Signs <hi>Dia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtic;</hi>
+               <pb n="5" facs="tcp:174253:3"/> It were a ſuperfluous vanity, but ſhall ſatisfie my ſelf and them with a brief, yet full declaration of what I know moſt mate<g ref="char:EOLhyphen"/>rial and beneficial to them, and that in plain and familiar terms; for <hi>Ornari res ipſa negat, contenta doceri.</hi>
+            </p>
+            <div type="therapeutic_applications">
+               <head>The Method and Orders to be obſerved in the uſe of this Cordial.</head>
+               <div type="part">
+                  <head>For the <hi>Stone</hi> or <hi>Gravel</hi> in the <hi>Kidneys.</hi>
+                  </head>
+                  <p>Take three ſpoonfuls laſt at night, and firſt in the morning, and an hour after it take one draught of Poſſet-drink made with White-wine, or Ale if they have it, and boyl in it a few Marſhmallow Roots; or for want of them, the Leaves of Common Mallows, and ſweetned with Sugar if they pleaſe; continue this for two or three days, and then reſt a day or two as they pleaſe.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Stone</hi> in the <hi>Bladder.</hi>
+                  </head>
+                  <p>Take the ſame Doſe of three ſpoonfuls morning and night, ſo long as your ſtrength will admit; and then reſt a day or two, and then take it again, and with patience continue the uſe of it; for this is not a Diſtemper for which a Cure muſt in a little time be expected.</p>
+               </div>
+               <div type="part">
+                  <head>Exulceration of the Kidneys, or Neck of the Bladder, and for a Bloody <g ref="char:V">Ʋ</g>rine.</head>
+                  <p>Take three ſpoonfuls night and morning for two days, and then reſt two days, and then take it every other day; and I adviſe them when Cows go to Graſs, to drink new Milk as often as they pleaſe, which is the Method I have uſed my ſelf, and found benefit by it: They muſt refrain Salt Meats, and Stale D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ink, and Sharp Wine.</p>
+               </div>
+               <div type="part">
+                  <head>Dropſie.</head>
+                  <p>If the Patient be of a ſtrong Conſtitution, let him take four ſpoon<g ref="char:EOLhyphen"/>fuls night and morning four days together; then reſt two da<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and then take three ſpoonfuls morning and night.</p>
+               </div>
+               <div type="part">
+                  <head>The G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut.</head>
+                  <p>Take three ſpoonfuls laſt at n<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd fi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt in <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> mor<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> co<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>nue it ſo long as they find they can conv<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> day, or longer if they can, and then reſt a day o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> two <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>w the ſame courſe again; If th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> find that they h<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not a go<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>ſtion of their Meat, then let th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m after the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o 4 d<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> it (and reſting a day or two) take two at nig<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> morni<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d one ſpoonful an hour before dinner.</p>
+               </div>
+               <div type="part">
+                  <head>Cholick and G<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iping in the Gut<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <p>When the Fit is upon the Patient, let there be given <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſpoonfuls, <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ch I have not often known to fail; b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t if it co<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>, l<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> them <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e the ſame Doſe ſix ho<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> after; and <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <pb n="6" facs="tcp:174253:4"/> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> to t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke of it morning and night for two or three days, to <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>y off that Humour which cauſed thoſe Obſtructions.</p>
+               </div>
+               <div type="part">
+                  <head>Phthiſick.</head>
+                  <p>Take three ſpoonfuls night and morning for two or three days; <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> take one ſpoonful morning and night, and an hour before din<g ref="char:EOLhyphen"/>n<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>: I adviſe them likewiſe to drink their Beer hot; and for thoſe <gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> can afford it, let it be ſweetned with Loaf-Sugar.</p>
+               </div>
+               <div type="part">
+                  <head>Scur<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y.</head>
+                  <p>Known by knots in the fleſh, ſpots in the skin, and looſeneſs of the Teeth: Take three ſpoonfuls morning and evening for two days, then reſt two days; then take two ſpoonfuls morning and evening for two day<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and reſt other two days; and ſo continue that Me<g ref="char:EOLhyphen"/>thod for ſome time, according to the patients own diſcretion. It is <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> excellent Medicine for thoſe that go Sea-Voyages, and will <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> good in the longeſt Voyages.</p>
+               </div>
+               <div type="part">
+                  <head>Surfeits.</head>
+                  <p>Take three in the morning, and three at night for three days<g ref="char:punc">▪</g> and whoever hath drunk bad Wine, or too much of good, let them take three ſpoonfuls over night, and three next morning, and they will owe me thanks for my Advice.</p>
+               </div>
+               <div type="part">
+                  <head>Fits of the Mother, and Vapours from the Spleen.</head>
+                  <p>Let the patient begin with one or two ſpoonfuls and ſo continue, o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>raiſe the Doſe as they find their Bodies able to bear it.</p>
+               </div>
+               <div type="part">
+                  <head>Green Sickneſs.</head>
+                  <p>According to the Age and Strength of the patient, let the patient take one, two, or three ſpoonfuls morning and night, and uſe exer<g ref="char:EOLhyphen"/>ciſe, and there i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no queſtion of a Cure, if it be continued for a little time.</p>
+               </div>
+               <div type="part">
+                  <head>Childrens Diſtempers.</head>
+                  <p>Whether the Wo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ms, Rickets, the Stone, Convulſions, Gripes, Kings Evil, or any other Diſtemper; the beſt Direction is, to leave it to the diſcretion of the parents; and if the Child be young, to give it a ſmall quantity mixt with ſome proper <hi>Vehicle</hi> for the Diſtem<g ref="char:EOLhyphen"/>per you give it for; but as I have uſed it to my own Children with good ſucceſs, I give a ſpoonful to one two years old, and two ſpoon<g ref="char:EOLhyphen"/>fuls to one of ſix; but for the exact Doſe, the obſervation of the parents will direct them.</p>
+               </div>
+               <div type="part">
+                  <head>L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of Appetite.</head>
+                  <p>Let two or three ſpoonfuls be taken morning and evening for two
+<pb n="7" facs="tcp:174253:4"/> days, and then intermit two or three days, and ſo take of it, or for<g ref="char:EOLunhyphen"/>bear it as they pleaſe. I have known ſeveral reap great benefit in taking leſs than half a pint.</p>
+               </div>
+               <div type="part">
+                  <head>Conſumption and bad Digeſtion.</head>
+                  <p>Let them take one ſpoonful an hour before dinner, and another ſpoonful after dinner.</p>
+               </div>
+               <div type="part">
+                  <head>Agues.</head>
+                  <p>An hour before the Fit, take three ſpoonfuls; and ſix hours after take two ſpoonfuls; and continue this Method according as the ſtrength of the patient will admit.</p>
+               </div>
+               <div type="part">
+                  <p>My Bottles are ſealed with my Seal, being the ſame Coat of Arms as is on this <hi>Paper,</hi> and are ſold by theſe perſons as followeth.
+<list>
+                        <item>IN <hi>Weſtminſter-Hall,</hi> by Mr. <hi>Will. Henſeman,</hi> Bookſeller.</item>
+                        <item>In the <hi>Strand</hi> near <hi>York-Buildings,</hi> by Mrs. <hi>Seward,</hi> at the Flower-pot</item>
+                        <item>At <hi>Charing-Croſs</hi> by Mr. <hi>Trulock</hi> a Gun-ſmith.</item>
+                        <item>In the <hi>Strand,</hi> over-againſt <hi>Exeter Exchange,</hi> by Mr. <hi>Samuel Lownds,</hi> Bookſeller.</item>
+                        <item>In <hi>Bedford-ſtreet</hi> in <hi>Covent-Garden,</hi> by Mr. <hi>Thomas Moody,</hi> Shooma<g ref="char:EOLhyphen"/>ker, at the Queens Head &amp; Crown</item>
+                        <item>At <hi>Temple-Bar,</hi> by Mrs. <hi>Fowkes</hi> at the <hi>Civit-Cat.</hi>
+                        </item>
+                        <item>In St. <hi>Paul</hi>'s Church yard, by Mr. <hi>Robert Cla<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>el</hi> at the <hi>Peacock,</hi> Bookſeller.</item>
+                        <item>At Mr. <hi>Brew<gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>
+                           </hi> Cof<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ee-houſe at <hi>Guild <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>all.</hi>
+                        </item>
+                        <item>In <hi>Bart<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>l<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>mew-Lane,</hi> by Mr. <hi>Kid</hi> at the <hi>Amſterdam</hi> Coffee-houſe.</item>
+                        <item>In <hi>Swithin<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s-Alle<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>,</hi> at <hi>Joes</hi> Coffee-Houſe at the Blew-coat.</item>
+                        <item>In <hi>Biſhopſ<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ate-ſtreet,</hi> by Mr. <hi>Richard Tooth,</hi> at his Coffee-houſe ne<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r the Old <hi>Poſt-Office.</hi>
+                        </item>
+                        <item>At the Corner of <hi>Eaſtcheap,</hi> by Mr. <hi>Wright</hi> a Millener.</item>
+                        <item>In <hi>Thames-ſtreet</hi> over againſt the <hi>Cuſtom-houſe,</hi> by M. <hi>Rob. Smithers.</hi>
+                        </item>
+                        <item>At <hi>Ratcliff-Croſs,</hi> by <hi>Mr. Muckelt,</hi> at the Caſtle.</item>
+                        <item>At <hi>Billingſgate,</hi> by <hi>Mr. James Town</hi> at his Coffee-houſe.</item>
+                        <item>At the <hi>Spur-Inne</hi> in <hi>Southwark,</hi> by <hi>Mrs. Turwit.</hi>
+                        </item>
+                        <item>At the <hi>Chriſtopher</hi> in <hi>Barnaby-ſtreet, Southwark,</hi> by <hi>Mr Chambe<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. John Hale,</hi> Barber in <hi>I<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y <gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>a<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Crag</hi> at his Coffee-houſe in <hi>Buckler<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> be<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ry.</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Henry Gard<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ers</hi> Coffee-houſe at St. <hi>Mary O<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>erie<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, D<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>k.</hi>
+                        </item>
+                        <item>In <hi>Piccadilly,</hi> by <hi>Mr. F<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ſt<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r</hi> at the B<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ar.</item>
+                        <item>By <hi>M<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>. Goodfellow,</hi> Grocer, againſt <hi>Somerſet-houſe-gate</hi> in the <hi>Stra<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d</hi>
+                        </item>
+                        <item>By <hi>Mr. St<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>phen Alden</hi>
+                        </item>
+                     </list>
+                  </p>
+                  <pb facs="tcp:174253:5"/>
+                  <pb facs="tcp:174253:5"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
